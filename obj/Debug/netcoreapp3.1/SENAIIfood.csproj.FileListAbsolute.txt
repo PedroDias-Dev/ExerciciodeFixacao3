@@ -1,0 +1,13 @@
+C:\Users\pedro\Documents\Programação\SENAIIfood\bin\Debug\netcoreapp3.1\SENAIIfood.exe
+C:\Users\pedro\Documents\Programação\SENAIIfood\bin\Debug\netcoreapp3.1\SENAIIfood.deps.json
+C:\Users\pedro\Documents\Programação\SENAIIfood\bin\Debug\netcoreapp3.1\SENAIIfood.runtimeconfig.json
+C:\Users\pedro\Documents\Programação\SENAIIfood\bin\Debug\netcoreapp3.1\SENAIIfood.runtimeconfig.dev.json
+C:\Users\pedro\Documents\Programação\SENAIIfood\bin\Debug\netcoreapp3.1\SENAIIfood.dll
+C:\Users\pedro\Documents\Programação\SENAIIfood\bin\Debug\netcoreapp3.1\SENAIIfood.pdb
+C:\Users\pedro\Documents\Programação\SENAIIfood\obj\Debug\netcoreapp3.1\SENAIIfood.csprojAssemblyReference.cache
+C:\Users\pedro\Documents\Programação\SENAIIfood\obj\Debug\netcoreapp3.1\SENAIIfood.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\Programação\SENAIIfood\obj\Debug\netcoreapp3.1\SENAIIfood.AssemblyInfoInputs.cache
+C:\Users\pedro\Documents\Programação\SENAIIfood\obj\Debug\netcoreapp3.1\SENAIIfood.AssemblyInfo.cs
+C:\Users\pedro\Documents\Programação\SENAIIfood\obj\Debug\netcoreapp3.1\SENAIIfood.dll
+C:\Users\pedro\Documents\Programação\SENAIIfood\obj\Debug\netcoreapp3.1\SENAIIfood.pdb
+C:\Users\pedro\Documents\Programação\SENAIIfood\obj\Debug\netcoreapp3.1\SENAIIfood.genruntimeconfig.cache
