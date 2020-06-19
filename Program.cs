@@ -11,17 +11,17 @@ namespace SENAIIfood
             predo.EnderecoAtual = "Casa do Predo";
             Console.WriteLine( predo.MostrarDados() );
 
-            Restaurante PapaPizza = new Restaurante("PapaPizza");
+            Restaurante PapaPizza = new Restaurante("PapaPizza", "Rua Marcelina, 223");
             //PapaPizza.Nome = "PapaPizza";
-            PapaPizza.Endereco = "Rua Marcelina, 223";
+            //PapaPizza.Endereco = "Rua Marcelina, 223";
             
             Console.WriteLine( PapaPizza.MostrarDados() );
 
             string[] itens = { "Pizza 1", "Pizza 2"};
             Pedido pedido = new Pedido();
-            
             pedido.Cliente = predo.Nome;
             pedido.Restaurante = PapaPizza.Nome;
+
             Console.WriteLine( pedido.EntregarPedido() );
 
 

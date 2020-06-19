@@ -1,3 +1,5 @@
+using System;
+
 namespace SENAIIfood
 {
     public class Pedido  
@@ -8,8 +10,12 @@ namespace SENAIIfood
         public string FormaDePGTO {get;set;}
         public bool PedidoPago {get;set;}
 
+        public DateTime DataEntrega {get; set;}
+
         public string EntregarPedido(){
 
+            DataEntrega = DateTime.Now;
+            System.Console.WriteLine("Horário: " +DataEntrega);
             return $"Pedido entregue por {Restaurante} para {Cliente} com sucesso!";
         }
     }
